@@ -1,0 +1,8 @@
+Currently drawing from 'AC Power'
+ -InternalBattery-0	16%; charging; 2:22 remaining
+
+Currently drawing from 'AC Power'
+ -InternalBattery-0	15%; AC attached; not charging
+
+Currently drawing from 'AC Power'
+ -InternalBattery-0	15%; charging; (no estimate)

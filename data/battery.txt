@@ -1,0 +1,10 @@
+Currently drawing from 'Battery Power'
+ -InternalBattery-0	15%; discharging; 0:44 remaining
+	Battery Warning: Early
+
+Currently drawing from 'Battery Power'
+ -InternalBattery-0	17%; discharging; 0:55 remaining
+	Battery Warning: Early
+
+Currently drawing from 'Battery Power'
+ -InternalBattery-0	16%; discharging; (no estimate)
